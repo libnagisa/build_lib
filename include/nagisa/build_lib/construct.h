@@ -3,7 +3,7 @@
 #include "./config.h"
 
 #if defined(NGS_BUILD_LIB_BEGIN) || defined(NGS_BUILD_LIB_END)
-#	error "NGS_LIB_BEGIN or NGS_LIB_END is already defined."
+#	error "NGS_BUILD_LIB_BEGIN or NGS_BUILD_LIB_END is already defined."
 #endif
 
 #include "./details/root.h"
