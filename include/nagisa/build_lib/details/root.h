@@ -1,4 +1,4 @@
 #pragma once
 
-#define NGS_NS nagisa
-namespace NGS_NS{}
+#define NAGISA_NS nagisa
+namespace NAGISA_NS {}
