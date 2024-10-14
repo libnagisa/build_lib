@@ -10,7 +10,7 @@
 #include "./details/name.h"
 #include "./details/detail.h"
 #include "./details/version.h"
-
+//
 // build lib namespace
 
 #if NGS_BUILD_LIB_CONFIG_DISABLE_NGS_ROOT_NS
